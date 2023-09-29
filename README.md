@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Işıl</h1>
-<h3 align="center">a passionate Machine Learning enthusiast with a knack for delving into the data universe. My journey in this exciting realm began during my final year at university, and since then, there has been no looking back. 🚀</h3>
-<h3 align="center">About Me:
-I define myself as an ML rat 🐹. Machine Learning and Data Science are not just professions for me; they are my absolute passion. The joy of continuously enhancing my skills and contributing to the field is unparalleled. I'm constantly seeking opportunities to grow and make meaningful contributions. 💡
-</h3>
+
+<p align="center">I define myself as an ML rat 🐹. Machine Learning and Data Science are not just professions for me; they are my absolute passion. The joy of continuously enhancing my skills and contributing to the field is unparalleled. I'm constantly seeking opportunities to grow and make meaningful contributions. 💡</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isilhilalaktar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isilhilalaktar/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/isilhilalaktar/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isilhilalaktar/" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
