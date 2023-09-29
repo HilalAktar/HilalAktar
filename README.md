@@ -39,4 +39,4 @@ I define myself as an ML rat 🐹. Machine Learning and Data Science are not jus
 
 
 
-![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/HilalAktar/HilalAktar/blob/output/github-contribution-grid-snake.gif)
