@@ -12,7 +12,7 @@ I define myself as an ML rat 🐹. Machine Learning and Data Science are not jus
 
 🌱 I'm continuously expanding my expertise, particularly focusing on production-level machine learning and time series analysis.
 
-🔩 Beyond coding, I'm a gym enthusiast - you'll probably find me at the gym if I'm not in front of my computer.
+🔩 Beyond coding, I'm also a gym rat - you'll probably find me at the gym if I'm not in front of my computer.
 
 🤸🏻 I enjoy watching science videos on YouTube to stay curious and informed.
 
